@@ -9,6 +9,10 @@
 
 <p>This example illustrates how to force GridView to automatically append a new row when an end-user finishes editing the last cell in GridView.</p>
 
+<b>See also:</b>
+
+[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+
 <br/>
 
 
