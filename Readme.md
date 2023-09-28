@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Add a new row when pressing Enter or Tab in the last cell
 
-This example shows how to automatically add a new row when the user finishes editing the last data cell.
+This example shows how to automatically add a new row when a user finishes editing the last data cell.
 
 
 ## Files to Review
